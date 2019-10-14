@@ -23,18 +23,18 @@ I have participated in various competitions of Kaggle so far,I intend to share a
 -----------------------------------------
 
 # 1 Define Problem
-this is a binary classification to detect survived people. we have two datasets, train, and test.
-when we build our model we should predict for the new passenger that he or she were been survived or dead.
+This is a binary classification to detect survived people. we have two datasets, train, and test.
+When we build our model we should predict for the new passenger that he or she were been survived or dead.
 # 1-1 introduction
 
 RMS Titanic was a British passenger liner that sank in the North Atlantic Ocean in the early hours of 15 April 1912, after colliding with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard, and more than 1,500 died, making it one of the deadliest commercial peacetime maritime disasters in modern history. RMS Titanic was the largest ship afloat at the time it entered service and was the second of three Olympic-class ocean liners operated by the White Star Line. It was built by the Harland and Wolff shipyard in Belfast. Thomas Andrews, her architect, died in the disaster.
 
-# 1-2 dataset
+# 1-2 Dataset
 
 Titanic dataset is an open dataset where you can reach from many different repositories and GitHub accounts. However, downloading from Kaggle will be definitely the best choice as the other sources may have slightly different versions and may not offer separate train and test files. So, please visit this link to download the datasets (Train.csv and Test.csv) to get started.
 
 -----------------------------------------
-# 2- installation
+# 2- Installation
 
 A very easy way to install these packages is to download and install the Conda distribution that encapsulates them all. This distribution is available on all platforms (Windows, Linux and Mac OSX).
 
@@ -64,7 +64,7 @@ Assumptions : we'll formulate hypotheses from the charts.
 
 
 -----------------------------------------
-# 5 - feature engineering
+# 5 - Feature Engineering
 In the previous part, we flirted with the data and spotted some interesting correlations.
 
 In this part, we'll see how to process and transform these variables in such a way the data becomes manageable by a machine learning algorithm.
